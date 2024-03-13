@@ -4,7 +4,7 @@ This Node.js application provides a simple API for managing user data. It allows
 
 #### Deployed link - https://tutorial5-jxgl.onrender.com
 
-Use postman to test the APIs
+Use postman to test the APIs. Details about the API are below
 
 ## Endpoints
 
